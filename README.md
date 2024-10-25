@@ -1,4 +1,3 @@
-Here's an updated and more professional version of the README file for your AI Trip Planner project:
 
 ---
 
